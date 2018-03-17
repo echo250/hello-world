@@ -1,4 +1,4 @@
 # hello-world
 
-hi, human
+hi, human.
 I am Echo250, from Mars.
